@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+  
+  button {
+    margin: 0.5em;
+    padding: 0.5em;
+    cursor: pointer;
+  }
+  
+  h3 {
+    margin-top: 1em;
+  }
+  
+  div {
+    text-align: center;
+  }
+  
